@@ -1,5 +1,5 @@
   # SneakerSync App
-  ### SneakerSyn Application provide different type of shoes to the user with discountprice and user can change or chrck the shoes size according to their need.
+  ### SneakerSyn Application provide different type of shoes to the user with discountprice and user can change or check the shoes size according to their need.
 
   * Organise Ui
   * set Favourite function
